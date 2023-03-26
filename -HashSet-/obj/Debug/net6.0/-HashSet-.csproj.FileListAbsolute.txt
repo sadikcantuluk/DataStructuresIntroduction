@@ -1,0 +1,15 @@
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\bin\Debug\net6.0\-HashSet-.exe
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\bin\Debug\net6.0\-HashSet-.deps.json
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\bin\Debug\net6.0\-HashSet-.runtimeconfig.json
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\bin\Debug\net6.0\-HashSet-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\bin\Debug\net6.0\-HashSet-.pdb
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.csproj.AssemblyReference.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.AssemblyInfoInputs.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.AssemblyInfo.cs
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\refint\-HashSet-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.pdb
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\-HashSet-.genruntimeconfig.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-HashSet-\obj\Debug\net6.0\ref\-HashSet-.dll

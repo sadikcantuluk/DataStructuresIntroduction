@@ -1,0 +1,15 @@
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\bin\Debug\net6.0\-SortedDictionary-.exe
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\bin\Debug\net6.0\-SortedDictionary-.deps.json
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\bin\Debug\net6.0\-SortedDictionary-.runtimeconfig.json
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\bin\Debug\net6.0\-SortedDictionary-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\bin\Debug\net6.0\-SortedDictionary-.pdb
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.csproj.AssemblyReference.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.AssemblyInfoInputs.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.AssemblyInfo.cs
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\refint\-SortedDictionary-.dll
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.pdb
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\-SortedDictionary-.genruntimeconfig.cache
+C:\Users\sadik\source\repos\Veri_Yapilari_Giriş\-SortedDictionary-\obj\Debug\net6.0\ref\-SortedDictionary-.dll
