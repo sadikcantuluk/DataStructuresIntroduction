@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj": {}
+    "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj": {
+    "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj",
+        "projectUniqueName": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj",
         "projectName": "-HashSet-",
-        "projectPath": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj",
+        "projectPath": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-HashSet-\\-HashSet-.csproj",
         "packagesPath": "C:\\Users\\sadik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-HashSet-\\obj\\",
+        "outputPath": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-HashSet-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",

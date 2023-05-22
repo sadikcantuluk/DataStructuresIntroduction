@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj": {}
+    "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj": {
+    "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj",
+        "projectUniqueName": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj",
         "projectName": "-SortedDictionary-",
-        "projectPath": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj",
+        "projectPath": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-SortedDictionary-\\-SortedDictionary-.csproj",
         "packagesPath": "C:\\Users\\sadik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadik\\source\\repos\\Veri_Yapilari_Giriş\\-SortedDictionary-\\obj\\",
+        "outputPath": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\Veri_Yapilari_Giriş\\-SortedDictionary-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
